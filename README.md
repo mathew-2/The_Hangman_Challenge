@@ -13,7 +13,6 @@ This project implements a Hangman game using a Bidirectional LSTM RNN model to p
 - [Future Improvements](#future-improvements)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The goal of this project is to create an intelligent agent for playing the classic Hangman game using machine learning techniques. The Bidirectional LSTM model is utilized to improve context understanding and pattern recognition in predicting letters, aiming to outperform traditional approaches in solving the word puzzle.
